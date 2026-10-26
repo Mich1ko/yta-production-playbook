@@ -1,0 +1,44 @@
+{
+  "channel_id": "quiet-moments",
+  "episode_id": "evening-001",
+  "audience": "Adults who enjoy reflective animated fiction",
+  "language": "English",
+  "channel_promise": "Small original stories about ordinary choices",
+  "content_pillars": [
+    "attention",
+    "creative habits",
+    "relationships"
+  ],
+  "track": "emotional story",
+  "topic": "The Break That Took My Whole Evening",
+  "viewer_payoff": "An evening slips away, then the protagonist returns to a meaningful activity",
+  "evidence_mode": "fictional",
+  "script_mode": "character driven short",
+  "narrative_pov": "second person",
+  "target_seconds": 60,
+  "narration_wpm": 135,
+  "planned_silence_seconds": 9.33,
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "max_clip_seconds": 8,
+  "model": null,
+  "supported_clip_seconds": [],
+  "visual_profile": "original illustrated animation",
+  "character_refs": [],
+  "environment_refs": [],
+  "budget": {
+    "amount": null,
+    "currency": null,
+    "max_attempts_per_shot": 2
+  },
+  "research_sources": [],
+  "thumbnail_reference_family": "A",
+  "requested_stage": "all planning stages",
+  "selection_delegated": true,
+  "output_mode": "planning only",
+  "editorial_limits": []
+}

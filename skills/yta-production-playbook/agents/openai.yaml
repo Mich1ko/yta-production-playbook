@@ -1,0 +1,6 @@
+interface:
+  display_name: "YTA Production Playbook"
+  short_description: "Plan YouTube stories, scenes, thumbnails, and titles"
+  default_prompt: "Use $yta-production-playbook to create an original YouTube episode plan with a full script, short-clip scene prompts, and thumbnail-title options."
+policy:
+  allow_implicit_invocation: true

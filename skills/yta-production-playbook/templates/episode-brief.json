@@ -1,0 +1,40 @@
+{
+  "channel_id": "",
+  "episode_id": "",
+  "audience": "",
+  "language": "English",
+  "channel_promise": "",
+  "content_pillars": [],
+  "track": "emotional story",
+  "topic": "",
+  "viewer_payoff": "",
+  "evidence_mode": "fictional",
+  "script_mode": "character driven short",
+  "narrative_pov": "second person",
+  "target_seconds": 180,
+  "narration_wpm": 135,
+  "planned_silence_seconds": 15,
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "max_clip_seconds": 8,
+  "model": null,
+  "supported_clip_seconds": [],
+  "visual_profile": "original illustrated animation",
+  "character_refs": [],
+  "environment_refs": [],
+  "budget": {
+    "amount": null,
+    "currency": null,
+    "max_attempts_per_shot": 2
+  },
+  "research_sources": [],
+  "thumbnail_reference_family": "A",
+  "requested_stage": "all planning stages",
+  "selection_delegated": true,
+  "output_mode": "planning only",
+  "editorial_limits": []
+}
